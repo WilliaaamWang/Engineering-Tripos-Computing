@@ -1,3 +1,3 @@
 # Engineering-Tripos-Computing
 
-Private repository for work done in CUED Tripos
+Personal repository for work done in CUED Tripos
